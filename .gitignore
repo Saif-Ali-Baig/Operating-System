@@ -6,6 +6,7 @@ a.out
 *.out
 *.exe
 
+
 # Core dumps
 core
 
