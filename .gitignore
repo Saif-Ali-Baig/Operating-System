@@ -1,0 +1,37 @@
+# Compiled object files
+*.o
+
+# Executable binaries
+a.out
+*.out
+*.exe
+
+# Core dumps
+core
+
+# Temporary files
+*~
+*.swp
+*.tmp
+
+# Log files
+*.log
+
+# VS Code settings folder
+.vscode/
+
+# Build directories
+build/
+bin/
+
+# macOS
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# CMake cache and generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
