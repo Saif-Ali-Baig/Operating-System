@@ -86,6 +86,8 @@ To compile and run the programs:
     ```
 Note: Some programs (e.g., file_read.c, file_copy.c) depend on output.txt, which is created by file_create_write.c. Run the file creation program first.
 
+---
+
 ## ✅ Requirements
 
 - A UNIX-like operating system (e.g., Linux, macOS)
